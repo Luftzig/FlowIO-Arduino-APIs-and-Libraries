@@ -1,6 +1,6 @@
 {
   "name": "FlowIO-Arduino-API",
-  "version": "7.2021",
+  "version": "2022.1.24",
   "repository":
   {
     "type": "git",
@@ -17,7 +17,7 @@
   "homepage": "https://softrobotics.io",
   "export": {
     "include": [
-      "FlowIO_7.2021/*"
+      "FlowIO_2022.1.24/*"
       ]
   },
   "frameworks": ["arduino"],
